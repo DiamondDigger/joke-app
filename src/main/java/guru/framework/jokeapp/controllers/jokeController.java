@@ -4,8 +4,8 @@ import guru.framework.jokeapp.services.JokeService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
-@Controller
 
+@Controller
 public class jokeController {
     private JokeService jokeService;
 
