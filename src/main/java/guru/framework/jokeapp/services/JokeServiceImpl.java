@@ -1,5 +1,7 @@
 package guru.framework.jokeapp.services;
 
+import guru.springframework.norris.chuck.ChuckNorrisQuotes;
+
 public class JokeServiceImpl implements JokeService {
     private final ChuckNorrisQuotes chuckNorrisQuotes;
 
