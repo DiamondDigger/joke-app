@@ -1,4 +1,4 @@
-package guru.framework;
+package guru.framework.jokeapp.controllers;
 
 import guru.framework.jokeapp.services.JokeService;
 import org.springframework.stereotype.Controller;
